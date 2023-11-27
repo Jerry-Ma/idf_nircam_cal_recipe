@@ -13,7 +13,7 @@ python apply_correction.py *_cal.fits
 ```
 
 
-# Changlog
+# Changelog
 
 * 2023-11-26: Add link to the paper [the paper](https://arxiv.org/abs/2311.13754)
 * 2023-11-20: Updated recipe and table for 1130.pamp.
